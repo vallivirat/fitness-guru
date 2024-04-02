@@ -1,1 +1,11 @@
-this is the abstract of the project:finess guru(modified by sindhu)
+ABSTRACT:
+
+In today's fitness landscape, the lack of personalized guidance and real-time feedback hinders individuals from reaching their fitness goals efficiently.
+To address this pressing challenge, our project focuses on harnessing cutting-edge AI technologies to revolutionize workout routines.
+Our goal is to create an innovative solution that offers personalized, interactive, and dynamic workout experiences.
+
+By integrating advanced technologies such as generative AI, action recognition models, and large language models, we aim to provide users with real-time interaction and tailored coaching feedback.
+Additionally, our solution incorporates a virtual coach feature, which monitors users through a live video stream and offers personalized guidance and encouragement during their workout sessions.
+Through the seamless coordination of these technologies, our solution will enable accurate exercise recognition and personalized guidance, ensuring an engaging and effective user experience in fitness training.
+
+Ultimately, our project seeks to empower individuals to achieve their fitness goals more effectively by providing them with personalized and dynamic support throughout their workout journey.
