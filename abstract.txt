@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is the abstract of the project:finess guru(modified by sindhu)
-=======
 this is the abstract of the project:finess guru(modified by srishma)
->>>>>>> 3bb45c95bf253e47476573cb2f883a02fa0c89d8
