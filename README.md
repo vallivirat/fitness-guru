@@ -1,1 +1,1 @@
-# fitness-guru
+A mobile application
