@@ -1,1 +1,19 @@
-this is the abstract of the project:finess guru(modified by srishma)
+
+ABSTRACT
+
+We're making an app called "Fitness-Guru " that uses advanced AI to plan your workouts. Whether you're busy, need specific plans, or just want to try new technology, our app can help.
+Personalized Workouts: Our app uses AI to create customized workout plans for you. It understands your needs and preferences, so you get the perfect workout every time.
+
+1.Real-Time Feedback: Our digital fitness coach gives you feedback as you exercise. It encourages you, corrects your form, and helps you reach your fitness goals.
+
+2.How it Works: Just open the app and start exercising. The app uses your phone's camera to watch you. It recognizes what you're doing and gives you feedback right away.
+
+Three Key Innovations:
+
+1.Vision Model: This helps the app see what exercises you're doing.
+2.Language Model: This helps the app understand and talk to you about your workouts.
+3.Orchestrator: This makes sure everything runs smoothly, so you get helpful feedback instantly.
+
+
+
+
