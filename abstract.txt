@@ -1,7 +1,7 @@
 
 ABSTRACT
 
-We're making an app called "Fitness-Guru " that uses advanced AI to plan your workouts. Whether you're busy, need specific plans, or just want to try new technology, our app can help.
+"Fitness-Guru " is an application that uses advanced AI to plan your workouts. Whether you're busy, need specific plans, or just want to try new technology, our app can help.
 Personalized Workouts: Our app uses AI to create customized workout plans for you. It understands your needs and preferences, so you get the perfect workout every time.
 
 1.Real-Time Feedback: Our digital fitness coach gives you feedback as you exercise. It encourages you, corrects your form, and helps you reach your fitness goals.
